@@ -1,12 +1,12 @@
 {
   "name": "codehouse-c4tbt-theme",
   "displayName": "C4TBT Theme",
-  "description": "Think beyond the world, but design and develop the existing world 👨‍💻",
-  "publisher": "codehouse-c4tbt",
+  "description": "The CodeHouse.C4TBT Color Theme is a gorgeous dark color theme designed for all developers.",
+  "publisher": "C4TBrilliantThoughts",
   "author": {
     "name": "Sumanth Sanathi"
   },
-  "version": "2.0.0",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
   },
@@ -18,7 +18,7 @@
     "url": "https://github.com/c4tbrilliantthoughts/c4tbt-vscode-theme/issues"
   },
   "galleryBanner": {
-    "color": "#19f9d8",
+    "color": "#363538",
     "theme": "dark"
   },
   "icon": "img/CodeHouse.png",
