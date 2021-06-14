@@ -1,4 +1,4 @@
-[![codehouse.c4tbt-theme](img/CodeHouse.png)](https://c4tbt.hashnode.dev/)
+[![codehouse.c4tbt-theme](https://c4tbt.hashnode.dev/)
 
 # CodeHouse.C4TBT Theme for VS Code
 
