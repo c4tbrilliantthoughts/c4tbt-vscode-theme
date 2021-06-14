@@ -1,8 +1,8 @@
-![codehouse.c4tbt-theme](https://c4tbt.hashnode.dev/)
-
 # CodeHouse.C4TBT Theme for VS Code
 
-[![codehouse.c4tbt-theme](img/theme.png)]
+![codehouse.c4tbt-theme](img/theme.png)
+
+[codehouse.c4tbt-theme](https://c4tbt.hashnode.dev/)
 
 ## Installation 🛠
 
